@@ -9,6 +9,6 @@ This template provides a minimal setup to get React working in Vite with HMR and
 git clone --single-branch -b main git@github.com:moeez-ktk/Front-End-Application-Templates.git
 ```
 
-- Single Page Application:
+- Multi Page Application:
 ```bash
 git clone --single-branch -b multi-page-app-template git@github.com:moeez-ktk/Front-End-Application-Templates.git
